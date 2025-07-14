@@ -1,0 +1,82 @@
+# 🎵 Spotify Songs Analysis – Excel & Power BI
+
+This project presents an in-depth analysis of **Spotify’s most streamed songs** using **Microsoft Excel** and **Power BI**. The objective is to uncover insights into what makes a song popular and how audio features influence streaming trends over time.
+
+---
+
+## 🔍 Project Objectives
+
+- Analyze song popularity trends across different years  
+- Explore key audio features and their relationship with popularity  
+- Visualize music trends using interactive dashboards
+
+---
+
+## 🧹 Data Preparation
+
+- Cleaned and transformed the dataset using **Power Query**
+- Removed duplicates, handled missing values, and formatted columns
+- Extracted relevant data and created calculated fields for analysis
+
+---
+
+## 📊 Analysis & Insights
+
+Key audio features analyzed:
+
+- `Danceability`
+- `Energy`
+- `Loudness`
+- `Tempo`
+- `Speechiness`
+- `Valence`
+- `Acousticness`
+
+📈 Insights include:
+
+- Correlation between audio features and song popularity  
+- Variance of features across years  
+- Trends in hit songs and how their characteristics have changed over time
+
+---
+
+## 🧠 Tools & Techniques Used
+
+| Tool          | Purpose                                      |
+|---------------|----------------------------------------------|
+| Power Query   | Data transformation & cleaning               |
+| Excel Pivot   | Summarizing and exploring data               |
+| DAX           | Custom calculations and variance analysis    |
+| Power BI      | Interactive visualizations and dashboards    |
+
+---
+
+## 📈 Key Findings
+
+- Songs with **higher danceability** and **moderate energy** are more likely to be popular  
+- **Loudness and valence** impact popularity differently depending on the year  
+- **Tempo and acousticness** reflect evolving music preferences over time
+
+---
+
+## 📁 Files Included
+
+- `Spotify_Songs_Analysis.xlsx` – Excel file with pivot tables and cleaned data  
+- `Spotify_Report.pbix` – Power BI dashboard with full visual exploration  
+- `README.md` – Project overview and documentation (this file)
+
+---
+
+## 🚀 Future Work
+
+- Include latest Spotify data (post-2024)  
+- Compare across genres and artists  
+- Integrate Spotify API for dynamic data updates  
+- Build a basic ML model to predict song popularity
+
+---
+
+## 📬 Contact
+
+For questions or feedback, feel free to reach out via [GitHub Issues](#) or connect on [LinkedIn](#).
+
